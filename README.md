@@ -16,7 +16,7 @@
 # RESUMEN
  En el archivo .ipynb correspondiente se puede apreciar la facilidad de carga, exploración, análisis y predicción con LSTM y la comprensión de ciertos conceptos y teoría:
 
-  - yfinance facilita la carga de datos bursátiles históricos actualizados a la fecha que permiten evaluar la salud económica de una industria, el comportamiento del mercado, el riesgo y comparar el rendimiento de inversiones.
+  - **yfinance** facilita la carga de datos bursátiles históricos actualizados a la fecha que permiten evaluar la salud económica de una industria, el comportamiento del mercado, el riesgo y comparar el rendimiento de inversiones.
   - Las librerias de Pandas, Mathplotlib, Seaborne ayudan a entender con claridad ciertos conceptos estadísticos fundamentales para la gestión técnica del mercado bursátil y para explicar con claridad a nuestros clientes el porque de nuestras conclusiones. Por ejemplo como los promedios móviles (MA)nos permiten visualizar el mejor rendimiento de las acciones; o porque el análisis de la media y la desviación estándar determinan el riesgo de una inversión.
   - Por útimo podemos ver a LSTM en acción. Creamos un modelo con la inteligencia y el conocimiento suficiente para predecir el comportamiento en el tiempo del valor de las acciones de una empresa.
     - Cabe mencionar que la teoria de funcionamiento de LSTM y el proceso de la creación y optimización de un modelo (LSTM) han sido explicados extensamente en otros notebooks, de mi propia creación disponibles públicamente en GitHub.
