@@ -1,4 +1,4 @@
-# Stock market análisis y predidicción
+# Stock market análisis y predicción
 ## Analizar el comportamiento del mercado de valores tecnológicos de EEUU
 ## Objetivo del proyecto:
   - Uso de **"yfinance"** para cargar datos del mercado de valores.
